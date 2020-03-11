@@ -1,0 +1,81 @@
+.css
+
+@font-face
+{
+	font-family: 'AquilineTwo';
+	src: url('AquilineTwo.ttf');
+}
+
+h1
+{
+	text-align: center;
+	background-color: fuchsia;
+	font-family: 'AquilineTwo', Arial, serif;
+	box-shadow: 6px 6px 6px black;
+	min-width: 50%;
+	min-height: 50%;
+	max-width: 400px;
+	max-height: 400px;
+	position: relative;
+}
+
+p
+{
+	color: yellow;
+	text-align: center;
+	font-weight: bold;
+	border: 10px solid black;
+	text-shadow: 4px 4px 6px black
+	min-width: 50%;
+	min-height: 50%;
+	max-width: 400px;
+	max-height: 400px;
+	position: relative;
+}
+
+h2
+{
+	color: green;
+	text-align: justify;
+	min-width: 50%;
+	min-height: 50%;
+	max-width: 400px;
+	max-height: 400px;
+	position: relative;
+}
+
+body
+{
+	background-image: url("cobweb.jpg");
+	display: flex;
+	position: relative;
+}
+
+#ecf
+{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+}
+#liseret
+{
+	background-color: blue;
+	color: blue;
+	position: fixed;
+	left: 55px;
+	top: 55px;
+	width: 10%;
+	height: 200%
+}
+
+#photo
+{
+	position: relative;
+	text-align: right;
+	position: 
+}
+
+#presentation
+{
+	display: flex
+}
