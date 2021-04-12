@@ -128,17 +128,17 @@ address{
     margin-bottom: 10px;
 }
 
-.experience-info{
+.experience_info{
     display: flex;
     flex-flow: column wrap;
 }
 
-.experience-logo{
+.experience_logo{
     flex: 0 0 25%;
     max-width: 100px;
 }
 
-.experience-info{
+.experience_info{
     flex: 0 0 70%;
     margin-left: auto;
 }
